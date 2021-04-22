@@ -17,7 +17,7 @@ const FILES_TO_CACHE = [
     '/assets/clases.png',
     '/assets/you_win.png',
     '/assets/game_over.png',
-    'install.js'
+    '/install.js'
     
 ];
 
